@@ -1,0 +1,30 @@
+#about
+body{
+
+    background-image: url(../img/about.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center right;
+}
+
+  .lista {  
+    font-size: 18px;
+    position: center fixed;  
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    color: black;
+
+}
+
+.quote{
+    color: rgba(49,157,138,255);
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 0.3);
+
+}
+
+.author{
+    color: rgba(49,157,138,255);
+        background-color: rgba(255, 255, 255, 0.3);
+
+}

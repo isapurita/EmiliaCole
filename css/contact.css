@@ -1,0 +1,48 @@
+#contact{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    /* position: fixed;   */
+
+}
+
+.subituloAbout{
+    font-size: 18px;
+
+}
+
+.mapa{
+    width: 1499px;
+}
+
+.tituloContact{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    text-align: top;
+    width: 1500px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.direccion{
+    color: rgba(49,157,138,255);
+
+}
+
+p{          
+    display: inline;
+}
+
+.dato{
+    font-weight: bold;
+    text-decoration:underline;
+
+}
+
+.canciones{
+    line-height: 190%;
+
+}
+
+.creditos{
+    font-size: 12px;
+    font-weight: bold;
+}

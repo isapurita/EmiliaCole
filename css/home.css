@@ -1,0 +1,39 @@
+#home
+body{
+
+    background-image: url(../img/home.jpg);
+    background-repeat: no-repeat;
+    background-size: 70%;
+    background-position: center right;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    position: fixed;  
+       
+}
+
+a { 
+    text-decoration: none; 
+    color: inherit; 
+}
+.tituloHome{
+    font-family: 'Raleway', sans-serif;
+    font-size: 80px;
+    text-align: top;
+    width: 1530px;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.subtitulo{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 45px;
+}
+
+.lista{
+    color: grey;
+    list-style: none;
+    line-height: 190%;
+}
+
+.colorNegro{
+    color: black;
+}
